@@ -131,7 +131,7 @@ LangChainとローカルLLM（Ollama）を使った**実践的なコーディン
 - [Llama Models](https://llama.meta.com/)
 
 ### 学習リソース
-- Untitled-1: AI・LLM・RAGの体系的まとめ（このワークスペース内）
+- Qiitaの記事貼る予定: AI・LLM・RAGの体系的まとめ
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 
 ## 🎯 次のステップ
